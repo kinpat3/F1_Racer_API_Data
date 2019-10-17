@@ -1,0 +1,29 @@
+.center-text{
+    text-align: center;
+    color: magenta;
+}
+
+.seemore_butts{
+    border-radius: 5px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 5px 2px #000000;
+    text-align: center;
+}
+
+#change-form{
+    margin:50px 0px; padding:0 20%;
+    text-align:center;
+    box-align:center;
+}
+body {
+	background-image: url("https://images.unsplash.com/photo-1526893422552-c13706e3fb5c");
+        background-repeat:no-repeat;
+        background-size:cover;
+} 
+
+table#table1 {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+    margin-top: 50px;;
+  }
